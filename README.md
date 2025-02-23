@@ -99,5 +99,5 @@ This project is licensed under the [lritikaburman]
 
 ---
 
-*Developed with ❤️ by [Lritikaburman]
+*Developed  by [Lritikaburman]
 ```
