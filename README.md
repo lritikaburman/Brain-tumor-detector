@@ -97,7 +97,3 @@ Contributions are welcome! Please create a pull request or open an issue for any
 
 This project is licensed under the [lritikaburman]
 
----
-
-*Developed  by [Lritikaburman]
-```
